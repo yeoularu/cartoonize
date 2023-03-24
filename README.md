@@ -8,10 +8,7 @@
 
 original video
 
-<video width="320" height="240" controls>
-
-  <source src="sample.mp4" type="video/mp4">
-</video>
+![](sample.mp4)
 
 Sample video by Mikhail Nilov from Pexels: https://www.pexels.com/video/a-woman-holding-a-bottle-of-essential-oil-6706916/
 
