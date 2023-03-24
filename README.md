@@ -6,10 +6,7 @@
 
 <br />
 
-original video
-
-![](sample.mp4)
-
+original video: sample.mp4
 Sample video by Mikhail Nilov from Pexels: https://www.pexels.com/video/a-woman-holding-a-bottle-of-essential-oil-6706916/
 
 ---
